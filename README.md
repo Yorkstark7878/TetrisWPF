@@ -15,5 +15,4 @@ Ce jeu offre une interface fluide et intuitive pour une expérience classique de
 
 ## 👤 Auteur  
 Développé par **Yorkstark**  
-📌 [GitHub](https://github.com/Yorkstark7878)  
-
+📌 [GitHub](https://github.com/Yorkstark7878)
